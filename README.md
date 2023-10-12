@@ -1,7 +1,7 @@
 # Secure voice encryption
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
 
-This Python script allows you to secure and protect your audio recordings by encrypting them with a password. With the same password, you can effortlessly decrypt and restore the audio to its original, audible form.
+This Python script allows you to secure and protect your audio recordings by encrypting them with a password. With the same password, you can decrypt and restore the audio to its original form.
 
 **Note:** This project is a work in progress, additional features and improvements will be added.
 
