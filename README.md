@@ -46,7 +46,7 @@ Follow these steps:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/opnsh/Secure-voice-encryption.git
+   git clone https://github.com/opnsh/Secure_voice_encryption.git
    ```
 
 2. Install the required Python packages. You can use `pip` to install them:
